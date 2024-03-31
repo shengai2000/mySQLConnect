@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\project\\cpp\\mysqlConnect\\mysqlConnect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C90FFFEE-56E0-439E-B987-B5DFB4480D90}|mysqlConnect\\mysqlConnect.vcxproj|E:\\project\\cpp\\mysqlConnect\\mysqlConnect\\mysqlConnect\\StudentManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C90FFFEE-56E0-439E-B987-B5DFB4480D90}|mysqlConnect\\mysqlConnect.vcxproj|solutionrelative:mysqlConnect\\StudentManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90FFFEE-56E0-439E-B987-B5DFB4480D90}|mysqlConnect\\mysqlConnect.vcxproj|E:\\project\\cpp\\mysqlConnect\\mysqlConnect\\mysqlConnect\\StudentManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C90FFFEE-56E0-439E-B987-B5DFB4480D90}|mysqlConnect\\mysqlConnect.vcxproj|solutionrelative:mysqlConnect\\StudentManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90FFFEE-56E0-439E-B987-B5DFB4480D90}|mysqlConnect\\mysqlConnect.vcxproj|E:\\project\\cpp\\mysqlConnect\\mysqlConnect\\mysqlConnect\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C90FFFEE-56E0-439E-B987-B5DFB4480D90}|mysqlConnect\\mysqlConnect.vcxproj|solutionrelative:mysqlConnect\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentManager.cpp",
+              "DocumentMoniker": "E:\\project\\cpp\\mysqlConnect\\mysqlConnect\\mysqlConnect\\StudentManager.cpp",
+              "RelativeDocumentMoniker": "mysqlConnect\\StudentManager.cpp",
+              "ToolTip": "E:\\project\\cpp\\mysqlConnect\\mysqlConnect\\mysqlConnect\\StudentManager.cpp",
+              "RelativeToolTip": "mysqlConnect\\StudentManager.cpp",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T01:18:04.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentManager.h",
+              "DocumentMoniker": "E:\\project\\cpp\\mysqlConnect\\mysqlConnect\\mysqlConnect\\StudentManager.h",
+              "RelativeDocumentMoniker": "mysqlConnect\\StudentManager.h",
+              "ToolTip": "E:\\project\\cpp\\mysqlConnect\\mysqlConnect\\mysqlConnect\\StudentManager.h",
+              "RelativeToolTip": "mysqlConnect\\StudentManager.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-31T01:17:59.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\project\\cpp\\mysqlConnect\\mysqlConnect\\mysqlConnect\\main.cpp",
+              "RelativeDocumentMoniker": "mysqlConnect\\main.cpp",
+              "ToolTip": "E:\\project\\cpp\\mysqlConnect\\mysqlConnect\\mysqlConnect\\main.cpp",
+              "RelativeToolTip": "mysqlConnect\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-30T08:49:15.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
